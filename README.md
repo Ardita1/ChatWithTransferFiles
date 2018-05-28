@@ -1,6 +1,5 @@
 # ChatTransferFiles
 
-Chat with transfer files in java using RMI.
 The main purpose of this project has been to create communication channels between users with the ability to send files using the
 RMI platform.
 One of the users should "play" the role of the server by activating or releasing the server.
