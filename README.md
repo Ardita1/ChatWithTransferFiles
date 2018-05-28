@@ -1,4 +1,4 @@
-# ChatTransferFiles
+# ChatWithTransferFiles
 
 The main purpose of this project has been to create communication channels between users with the ability to send files using the
 RMI platform.
